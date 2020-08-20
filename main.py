@@ -1,8 +1,4 @@
-'''
-Created on 10-Jun-2020
 
-@author: Toshinee Bhasin
-'''
 
 import random # for generting random numbers
 import sys #use to exit function
